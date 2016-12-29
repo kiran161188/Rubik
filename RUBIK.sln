@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mphasis.Rubik.Business", "Mphasis.Rubik.Business\Mphasis.Rubik.Business.csproj", "{69F65D70-B1B3-49A1-93EC-105635F98BFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mphasis.Rubik.Common", "Mphasis.Rubik.Common\Mphasis.Rubik.Common.csproj", "{DB5F45AA-5692-4C93-9A11-C71D805DAAE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mphasis.Rubik.Data", "Mphasis.Rubik.Data\Mphasis.Rubik.Data.csproj", "{E929FDA1-2E2E-48E1-AE51-A76D4DBF523E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mphasis.Rubik.Entities", "Mphasis.Rubik.Entities\Mphasis.Rubik.Entities.csproj", "{33F9C428-BB80-44BA-BE7A-4DE82EB33C5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mphasis.Rubik.UI", "Mphasis.Rubik.UI\Mphasis.Rubik.UI.csproj", "{797CD9A3-B68C-4806-8BBA-EA1F51C43DB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69F65D70-B1B3-49A1-93EC-105635F98BFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69F65D70-B1B3-49A1-93EC-105635F98BFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69F65D70-B1B3-49A1-93EC-105635F98BFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69F65D70-B1B3-49A1-93EC-105635F98BFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB5F45AA-5692-4C93-9A11-C71D805DAAE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB5F45AA-5692-4C93-9A11-C71D805DAAE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB5F45AA-5692-4C93-9A11-C71D805DAAE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB5F45AA-5692-4C93-9A11-C71D805DAAE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E929FDA1-2E2E-48E1-AE51-A76D4DBF523E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E929FDA1-2E2E-48E1-AE51-A76D4DBF523E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E929FDA1-2E2E-48E1-AE51-A76D4DBF523E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E929FDA1-2E2E-48E1-AE51-A76D4DBF523E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33F9C428-BB80-44BA-BE7A-4DE82EB33C5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33F9C428-BB80-44BA-BE7A-4DE82EB33C5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33F9C428-BB80-44BA-BE7A-4DE82EB33C5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33F9C428-BB80-44BA-BE7A-4DE82EB33C5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{797CD9A3-B68C-4806-8BBA-EA1F51C43DB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{797CD9A3-B68C-4806-8BBA-EA1F51C43DB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{797CD9A3-B68C-4806-8BBA-EA1F51C43DB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{797CD9A3-B68C-4806-8BBA-EA1F51C43DB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
